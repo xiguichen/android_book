@@ -15,3 +15,4 @@
 
 ### android develop guide
 * [android layout](https://developer.android.com/guide/topics/ui/declaring-layout.html)
+* [android activity life cycle](https://developer.android.com/guide/components/activities/activity-lifecycle.html)
